@@ -21,7 +21,7 @@ GA_without_tpot_100_100: Genetic Algorithm
 
 ------- Regression--------------
 
-Principal-Finace-Feature Lag-New: This script went wrong because we lagged target variable but important takeaway is future prices are one of most important indicator.
+Principal-Finance-Feature Lag-New: This script went wrong because we lagged target variable but important takeaway is future prices are one of most important indicator.
 
 Principal_Modelling-OriginalFeatures: This script is based on 18 features with different modeling techniques
 
